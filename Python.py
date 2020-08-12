@@ -1,0 +1,3 @@
+import MontyHall
+
+MontyHall.run()
